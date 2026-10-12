@@ -22,7 +22,7 @@ An interactive Power BI dashboard developed to analyze inventory performance, wa
 
 ## Dashboard Preview
 
-![SCM Dashboard](SCM_Dashboard.png)
+![SCM Dashboard](SCM%20Analysis%20Dashboard.png)
 
 ## Project Files
 - `SCM_Dashboard.pbix` – Interactive Power BI report
